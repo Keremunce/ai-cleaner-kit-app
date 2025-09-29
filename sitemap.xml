@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://aicleanerkit.com/</loc>
+        <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://aicleanerkit.com/assets/images/app-preview.jpg</image:loc>
+            <image:caption>AI Cleaner Kit App Preview</image:caption>
+            <image:title>AI Cleaner Kit: Clean Storage</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Privacy Policy -->
+    <url>
+        <loc>https://aicleanerkit.com/privacy-policy.php</loc>
+        <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Terms of Use -->
+    <url>
+        <loc>https://aicleanerkit.com/terms-of-use.php</loc>
+        <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>
