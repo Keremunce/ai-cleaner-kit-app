@@ -12,7 +12,7 @@
                     </p>
                     
                     <div class="download-buttons">
-                        <a href="#" class="app-store-link" title="Download AI Cleaner Kit for iOS">
+                        <a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="app-store-link" title="Download AI Cleaner Kit for iOS">
                             <img src="assets/images/download-on-the-app-store-apple-logo-svgrepo-com.svg" alt="Download on App Store" class="store-badge-footer">
                         </a>
                     </div>
@@ -22,22 +22,22 @@
                     <div class="footer-column">
                         <h4 class="footer-title">Product</h4>
                         <ul class="footer-list">
-                            <li><a href="#features" class="footer-link">Features</a></li>
-                            <li><a href="#screenshots" class="footer-link">Screenshots</a></li>
-                            <li><a href="#pricing" class="footer-link">Pricing</a></li>
-                            <li><a href="#" class="footer-link">What's New</a></li>
-                            <li><a href="#" class="footer-link">System Requirements</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">Features</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">Screenshots</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">Pricing</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">What's New</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">System Requirements</a></li>
                         </ul>
                     </div>
                     
                     <div class="footer-column">
                         <h4 class="footer-title">Support</h4>
                         <ul class="footer-list">
-                            <li><a href="#" class="footer-link">Help Center</a></li>
-                            <li><a href="#" class="footer-link">Contact Us</a></li>
-                            <li><a href="#" class="footer-link">FAQ</a></li>
-                            <li><a href="#" class="footer-link">Tutorials</a></li>
-                            <li><a href="#" class="footer-link">Bug Report</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">Help Center</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">Contact Us</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">FAQ</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">Tutorials</a></li>
+                            <li><a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="footer-link">Bug Report</a></li>
                         </ul>
                     </div>
                 </div>
@@ -52,7 +52,7 @@
                     </div>
                     
                     <div class="copyright">
-                        <p>&copy; <?php echo date('Y'); ?> AI Cleaner Kit. All rights reserved.</p>
+                        <p>&copy; <?php echo date('Y'); ?> AI Cleaner Kit. All rights reserved. REVENTY TEKNOLOJI ANONIM SIRKETI</p>
                     </div>
                 </div>
                 

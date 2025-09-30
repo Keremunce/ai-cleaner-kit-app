@@ -26,7 +26,7 @@
                 </div>
                 
                 <div class="hero-buttons">
-                    <a href="#" class="app-store-link" title="Download AI Cleaner Kit for iOS">
+                    <a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="app-store-link" title="Download AI Cleaner Kit for iOS">
                         <img src="assets/images/download-on-the-app-store-apple-logo-svgrepo-com.svg" alt="Download on App Store" class="store-badge-large">
                     </a>
                 </div>

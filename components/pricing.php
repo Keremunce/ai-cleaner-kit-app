@@ -17,7 +17,7 @@
                     <span class="price-amount">$6.99</span>
                     <span class="price-period">/week</span>
                 </div>
-                <button class="btn btn-primary pricing-btn">Start Free Trial</button>
+                    <a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" target="_blank" rel="noopener noreferrer" class="btn btn-primary pricing-btn">Start Free Trial</a>
                 <p class="trial-note">3-day free trial, then $6.99/week</p>
             </div>
             
@@ -30,7 +30,7 @@
                     <span class="price-amount">$8.99</span>
                     <span class="price-period">/week</span>
                 </div>
-                <button class="btn btn-primary pricing-btn">Start Free Trial</button>
+                    <a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" target="_blank" rel="noopener noreferrer" class="btn btn-primary pricing-btn">Start Free Trial</a>
                 <p class="trial-note">3-day free trial, then $8.99/week</p>
             </div>
             
@@ -44,7 +44,7 @@
                     <span class="price-amount">$14.99</span>
                     <span class="price-period">/month</span>
                 </div>
-                <button class="btn btn-primary pricing-btn">Start Free Trial</button>
+                    <a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" target="_blank" rel="noopener noreferrer" class="btn btn-primary pricing-btn">Start Free Trial</a>
                 <p class="trial-note">3-day free trial, then $14.99/month</p>
             </div>
             
@@ -57,7 +57,7 @@
                     <span class="price-amount">$19.99</span>
                     <span class="price-period">/month</span>
                 </div>
-                <button class="btn btn-primary pricing-btn">Start Free Trial</button>
+                    <a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" target="_blank" rel="noopener noreferrer" class="btn btn-primary pricing-btn">Start Free Trial</a>
                 <p class="trial-note">3-day free trial, then $19.99/month</p>
             </div>
             
@@ -70,7 +70,7 @@
                     <span class="price-amount">$24.99</span>
                     <span class="price-period">/year</span>
                 </div>
-                <button class="btn btn-primary pricing-btn">Start Free Trial</button>
+                    <a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" target="_blank" rel="noopener noreferrer" class="btn btn-primary pricing-btn">Start Free Trial</a>
                 <p class="trial-note">3-day free trial, then $24.99/year</p>
             </div>
             
@@ -83,7 +83,7 @@
                     <span class="price-amount">$34.99</span>
                     <span class="price-period">/year</span>
                 </div>
-                <button class="btn btn-primary pricing-btn">Start Free Trial</button>
+                    <a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" target="_blank" rel="noopener noreferrer" class="btn btn-primary pricing-btn">Start Free Trial</a>
                 <p class="trial-note">3-day free trial, then $34.99/year</p>
             </div>
         </div>

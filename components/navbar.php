@@ -23,7 +23,7 @@
                 </ul>
                 
                 <div class="nav-cta">
-                    <a href="#download" class="btn btn-primary">Download App</a>
+                    <a href="https://apps.apple.com/us/app/water-eject-shortcut-clear/id6751584991" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Download App</a>
                 </div>
             </div>
             

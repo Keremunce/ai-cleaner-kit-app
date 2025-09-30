@@ -385,29 +385,7 @@ function removeNotification(notification) {
 
 // ===== PRICING INTERACTIONS =====
 document.addEventListener('DOMContentLoaded', function() {
-    const pricingButtons = document.querySelectorAll('.pricing-btn');
-    
-    pricingButtons.forEach(button => {
-        button.addEventListener('click', function(e) {
-            e.preventDefault();
-            
-            const card = this.closest('.pricing-card');
-            const planName = card.querySelector('.pricing-title').textContent;
-            
-            // Simulate subscription process
-            this.textContent = 'Processing...';
-            this.disabled = true;
-            
-            setTimeout(() => {
-                showNotification(`Thank you for choosing the ${planName} plan! Redirecting to payment...`, 'success');
-                this.textContent = this.textContent.includes('Free Trial') ? 'Start Free Trial' : 'Get Started';
-                this.disabled = false;
-                
-                // Here you would typically redirect to a payment processor
-                // window.location.href = '/checkout?plan=' + planName.toLowerCase();
-            }, 2000);
-        });
-    });
+    // Pricing buttons are now direct links; no JS interaction needed.
 });
 
 // ===== PERFORMANCE OPTIMIZATIONS =====
